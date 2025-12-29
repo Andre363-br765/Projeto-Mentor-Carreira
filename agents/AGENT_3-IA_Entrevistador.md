@@ -1,16 +1,16 @@
-## 📊 Resumo Analítico da Vaga
+# 📊 Resumo Analítico da Vaga
 
-### **Título da Vaga**
+## **Título da Vaga**
 
 **Engenheiro de Dados Júnior**
 
-### **Propósito do Cargo**
+## **Propósito do Cargo**
 
 Atuar no suporte à coleta, organização, transformação e análise de dados, contribuindo para a construção de pipelines simples e garantindo a qualidade das informações utilizadas por sistemas, relatórios e análises.
 
 ---
 
-### **Senioridade**
+## **Senioridade**
 
 **Júnior**
 
@@ -19,7 +19,7 @@ A vaga é voltada para profissionais em início de carreira, com foco em aprendi
 
 ---
 
-### **Stack Técnica Essencial**
+## **Stack Técnica Essencial**
 
 * **Python** (ênfase em organização de código e boas práticas)
 * **Pandas** para manipulação e análise de dados
@@ -30,7 +30,7 @@ A vaga é voltada para profissionais em início de carreira, com foco em aprendi
 
 ---
 
-### **Soft Skills Mais Valorizadas**
+## **Soft Skills Mais Valorizadas**
 
 * **Pensamento analítico**, para compreender dados e identificar padrões
 * **Resolução de problemas**, especialmente em cenários com dados inconsistentes ou incompletos
@@ -39,6 +39,6 @@ A vaga é voltada para profissionais em início de carreira, com foco em aprendi
 
 ---
 
-### **Perfil Ideal do Candidato**
+## **Perfil Ideal do Candidato**
 
 Profissional em início de carreira, com boa base lógica, interesse em dados e sistemas, capaz de aprender rapidamente novas ferramentas e resolver problemas de forma estruturada.
