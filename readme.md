@@ -1,104 +1,87 @@
-# Projeto: Mentor de Carreira em Tecnologia
+# 🧠 IA Entrevistador Técnico – Simulação de Entrevista
 
-Este projeto simula um **mentor de carreira em tecnologia**, ajudando iniciantes a descobrir a melhor trajetória profissional e oferecendo um **plano de estudos completo** para se tornar Júnior na área escolhida.
+Este diretório contém o **Agent 3 – IA Entrevistador Técnico**, um módulo do projeto **Mentor de Carreira em Tecnologia**.
+
+## 🎯 Objetivo do Agent 3
+
+O Agent 3 foi projetado para:
+
+- Simular entrevistas técnicas de forma realista
+- Avaliar conhecimentos técnicos e soft skills
+- Registrar entrevistas como transcrição e análise
+- Servir como ferramenta de treino para candidatos iniciantes
+- Demonstrar como uma IA pode atuar como entrevistador técnico
+
+Este agente complementa os outros módulos do projeto:
+
+- **Agent 1:** Descoberta de perfil e sugestão de carreira  
+- **Agent 2:** Planejamento de estudos e roadmap  
 
 ---
 
-## 📁 Estrutura do Projeto
+## 📁 Estrutura de Pastas
 
 ```text
-Projeto-Mentor-Carreira/
+Agent-3_Simulação_de_entrevista_tecnica/
 │
-├─ README.md                          # Explicação geral do projeto e guia de uso
+├─ README.md
 │
-├─ docs/                               # Documentos originais dos agentes
-│   ├─ AGENT_1-Entrevistador_de_Carreira_em_Tecnologia.txt
-│   └─ AGENT_2-Planejador_de_Carreiras.txt
-│
-├─ agents/                             # Versões Markdown, legíveis e apresentáveis
-│   ├─ AGENT_1-Entrevistador_de_Carreira_em_Tecnologia.md
-│   └─ AGENT_2-Planejador_de_Carreiras.md
-│
-└─ planilhas/                          # Planilhas e roadmaps de estudo
-    └─ Plano_Engenheiro_de_Dados.xlsx
+├─ docs/
+│  ├─ AGENT_3-IA_Entrevistador.txt
+│  └─ AGENT_3-Transcricao_Entrevista_Tecnica.txt
+└─ agents/
+   ├─ AGENT_3-IA_Entrevistador.md
+   └─ AGENT_3-Transcricao_Entrevista_Tecnica.md
 ```
 
-**Descrição dos diretórios:**
+---
 
-* `docs/` → Contém os arquivos de instruções originais dos agentes, mais detalhados para referência interna.
-* `agents/` → Versões Markdown, legíveis e apresentáveis, usadas para simular a interação com o usuário.
-* `planilhas/` → Planilha profissional com roadmap de estudos detalhado, tarefas semanais e acompanhamento de progresso.
+## 📄 Tipos de Arquivo
+
+### `docs/` – Arquivos TXT
+- **AGENT_3-IA_Entrevistador.txt**: Instruções originais para a IA conduzir a entrevista.
+- **AGENT_3-Transcricao_Entrevista_Tecnica.txt**: Registro completo da entrevista simulada, com perguntas e respostas do candidato.
+
+Uso principal: simulação real de entrevistas e registro bruto da conversa.
+
+### `agents/` – Arquivos MD
+- **AGENT_3-IA_Entrevistador.md**: Registro estruturado da vaga e análise técnica do cargo.
+- **AGENT_3-Transcricao_Entrevista_Tecnica.md**: Resumo profissional da entrevista, com avaliação técnica e comportamental.
+
+Uso principal: documentação legível, avaliação formal e portfólio.
 
 ---
 
-## 🎯 Objetivo do Projeto
+## 🧪 Caso de Uso Demonstrado
 
-1. **Agent 1 - Entrevistador de Carreira**
+Exemplo de entrevista simulada presente neste diretório:
 
-   * Conduz uma **entrevista estruturada** com 7 perguntas.
-   * Identifica interesses, experiência, disponibilidade e objetivos.
-   * Sugere **3 carreiras mais adequadas** para o perfil do usuário.
-   * Transfere as informações para o Agent 2.
+- **Cargo:** Engenheiro de Dados Júnior
+- **Perfil do Candidato:** Iniciante com experiência em estudos e projetos pessoais
 
-2. **Agent 2 - Planejador de Carreira**
+A entrevista avalia:
 
-   * Recebe os dados do Agent 1.
-   * Gera um **plano completo de estudos**, incluindo:
-
-     * Visão do dia a dia do profissional
-     * Mapa de skills
-     * Roadmap de 90 dias
-     * Projeto de portfólio
-     * Roteiro de entrevistas
-     * Trilha DIO recomendada
+- Conhecimentos técnicos (Python, SQL, Pandas, PySpark)
+- Processo de aprendizado e organização
+- Resolução de problemas
+- Trabalho em equipe e postura profissional
 
 ---
 
-## 📅 Roadmap e Plano de Estudos
+## 🚀 Possíveis Evoluções Futuras
 
-O plano é dividido em **3 meses** com metas semanais:
+Este agente pode evoluir para:
 
-* **Mês 1 – Fundamentos:** Lógica de programação, Python, SQL básico, organização de arquivos.
-* **Mês 2 – Prática:** ETL, integração de dados, pequenos projetos e pipelines.
-* **Mês 3 – Portfólio e Preparação:** Projeto completo, visualização de dados, preparação para entrevistas.
-
-A planilha `Plano_Engenheiro_de_Dados.xlsx` permite acompanhamento detalhado das tarefas e entregáveis.
-
----
-
-## 💻 Tecnologias e Skills
-
-* **Core Skills:** SQL, Python, ETL, organização de dados
-* **Complementares:** NoSQL, Git, boas práticas de versionamento
-* **Ferramentas:** Jupyter Notebook, VS Code, Pandas, NumPy, Matplotlib, Power BI ou Tableau (opcional)
+- Suporte a múltiplas vagas (Desenvolvimento, Dados, Infra, IA)
+- Diferentes níveis de senioridade (Júnior / Pleno / Sênior)
+- Pontuação automática por critérios técnicos e comportamentais
+- Integração com os Agents 1 e 2
+- Geração automática de feedback personalizado
 
 ---
 
-## 🎓 Trilha Recomendada
+## ✅ Conclusão
 
-**Engenharia de Dados – DIO**
+O **Agent 3 – IA Entrevistador Técnico** demonstra como uma IA pode conduzir entrevistas estruturadas, avaliar candidatos iniciantes e gerar registros profissionais.
 
-* Curso estruturado com Python, SQL, ETL e projetos práticos
-* Voltado para iniciantes que buscam entrar no mercado como Júnior
-* [Acesse DIO](https://dio.me)
-
----
-
-## ⚙️ Como Usar
-
-1. Abrir `agents/AGENT_1-Entrevistador_de_Carreira_em_Tecnologia.md` para simular a entrevista.
-2. Identificar as carreiras sugeridas e escolher uma para foco.
-3. Abrir `agents/AGENT_2-Planejador_de_Carreiras.md` para seguir o roadmap de estudos.
-4. Acompanhar progresso, tarefas e entregáveis na planilha `planilhas/Plano_Engenheiro_de_Dados.xlsx`.
-
----
-
-## ✅ Observações
-
-* Foco em **primeiro emprego ou transição de carreira**.
-* Roadmap adaptável conforme horas semanais disponíveis e experiência prévia.
-* Constância e prática diária são essenciais para o sucesso.
-
----
-
-**Desenvolvido como desafio de orientação profissional em tecnologia.**
+Este módulo reforça o caráter educacional, prático e evolutivo do projeto **Mentor de Carreira em Tecnologia**.

@@ -1,0 +1,112 @@
+ENTREVISTA TÉCNICA – TRANSCRIÇÃO REGISTRADA
+
+Candidato: André
+Vaga: Engenheiro de Dados Júnior
+Entrevistador: IA – Entrevistador Técnico
+Data: (não informada)
+
+--------------------------------------------------
+INÍCIO DA ENTREVISTA
+--------------------------------------------------
+
+ENTREVISTADOR:
+Olá! Obrigado por participar da entrevista.
+Para começar, poderia se apresentar e explicar por que se interessou por essa vaga?
+
+CANDIDATO (ANDRÉ):
+Meu nome é André e me interessei pela vaga porque envolve linguagens que estou estudando
+recentemente. Tenho uma alta expectativa de que poderei me desenvolver e aprender mais
+nesse trabalho.
+
+--------------------------------------------------
+EXPERIÊNCIA E STACK TÉCNICA
+--------------------------------------------------
+
+ENTREVISTADOR:
+Você já teve contato com SQL e bancos de dados no seu aprendizado?
+
+CANDIDATO:
+Para ser franco, não cheguei a usar SQL em Python, mas usei em Java quando fiz um banco de
+dados orientado a objetos, onde você investe dinheiro e saca dinheiro.
+Acredito que não seja muito diferente usar SQL em Java ou Python, já que entendo orientação
+a objetos nos dois.
+Sobre SQL, estou mais familiarizado com MySQL (o do golfinho).
+Também usei bastante RabbitMQ, que não é SQL, mas acho importante mencionar.
+
+--------------------------------------------------
+FORMA DE ESTUDO E ORGANIZAÇÃO
+--------------------------------------------------
+
+ENTREVISTADOR:
+Como você decide o que estudar quando aprende uma nova tecnologia?
+
+CANDIDATO:
+Eu pesquiso quais pontos aprender considerando a dificuldade de aprendizado, o impacto no
+mercado de trabalho e se vale a pena estudar aquilo, se vai continuar relevante e por quanto
+tempo.
+Também vejo as limitações e especialidades da tecnologia para então montar uma organização
+e um cronograma de estudos.
+Dependendo do caso, faço cursos, projetos e busco opiniões de outros programadores.
+
+--------------------------------------------------
+RESOLUÇÃO DE PROBLEMAS
+--------------------------------------------------
+
+ENTREVISTADOR:
+Quando você encontra um problema difícil no código, como costuma agir?
+
+CANDIDATO:
+Depende da situação, mas em geral analiso o problema e os erros, tento encontrar a causa raiz.
+Verifico se não tem nada mal escrito, faltando ou errado, se algo deixou de funcionar.
+Se for algo local, isolo a área do código, separo em dois problemas menores e vou testando.
+Se nada funcionar, peço ajuda e explico em detalhes o que fiz e qual é o problema.
+Se eu suspeitar de onde está o erro, aponto, mas sem tirar conclusões precipitadas.
+
+--------------------------------------------------
+TRABALHO EM EQUIPE E POSTURA PROFISSIONAL
+--------------------------------------------------
+
+ENTREVISTADOR:
+Você já trabalhou em grupo em projetos de programação? Como lida com opiniões diferentes?
+
+CANDIDATO:
+Sim, já estudei e fiz projetos em grupo, tanto na escola quanto fora.
+Sempre fui neutro para não ficar de mal com ninguém, mas dependendo da opinião eu me
+posiciono, sem atacar ou ser insensível, sempre com empatia.
+Se for algo que ainda não testei, prefiro testar antes, porque pode estar certo ou parcialmente
+certo. Mas sempre tento fazer isso da forma mais segura possível.
+
+--------------------------------------------------
+BUSCA POR AJUDA E USO DE RECURSOS
+--------------------------------------------------
+
+ENTREVISTADOR:
+Quando fica travado em algo, como busca ajuda?
+
+CANDIDATO:
+Eu pesquiso perguntando para IA ou em fóruns e grupos para esclarecer o que está me travando.
+O principal é testar e ver os resultados.
+Mas sempre levo em conta a confiabilidade da informação, porque é preciso ter certeza de que
+não vai prejudicar a segurança antes de executar qualquer coisa.
+
+--------------------------------------------------
+ENCERRAMENTO
+--------------------------------------------------
+
+ENTREVISTADOR:
+Obrigado pelas respostas. Deseja acrescentar algo?
+
+CANDIDATO:
+Não, apenas reforço que tenho muita vontade de aprender, evoluir e me desenvolver na área.
+
+--------------------------------------------------
+AVALIAÇÃO RESUMIDA DO ENTREVISTADOR
+--------------------------------------------------
+O candidato demonstra perfil compatível com vaga de Engenheiro de Dados Júnior.
+Apresenta boa base lógica, pensamento analítico, organização no aprendizado e postura madura
+para trabalho em equipe.
+Apesar da experiência prática ainda estar em desenvolvimento, mostra potencial claro de
+crescimento e boa capacidade de adaptação.
+
+--------------------------------------------------
+FIM DA TRANSCRIÇÃO
